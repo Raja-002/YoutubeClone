@@ -66,7 +66,7 @@ body {
 
 @media (max-width: 750px) {
     .video-grid {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 }
 
